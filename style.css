@@ -1,0 +1,15 @@
+h1{
+    background-color: royalblue;
+}
+
+p{
+    background-color: red;
+}
+div{
+    height: 300px;
+    width: 300px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
